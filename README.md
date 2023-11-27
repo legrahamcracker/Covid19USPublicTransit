@@ -25,3 +25,6 @@ The third dataset includes generic urban area statistics like population, land a
 
 These datasets will allow for thorough exploration of public transit and commuting characteristics of the period before and during the pandemic. Information on ridership will showcase the affect of COVID-19 on transit while commuter mode share may showcase what modes increased in use when public transit decreased.
 
+# Dashboard
+
+The following Tableau Public dashboard that showcases the results of the above analysis. No link yet [Link]().
