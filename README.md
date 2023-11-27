@@ -8,9 +8,9 @@ The COVID-19 pandemic saw a major change across the United States and the world 
 
 Because public transit has increased density of commuters compared to car travel, it was expected that ridership decreased during the pandemic. Here are some questions related to how the pandemic effected public transit across the US.
 
-- How much did ridership decrease by? 
-- Has ridership returned to normal? If not, how far are pre-pandemic ridership numbers is post-pandemic numbers? 
-- How do urban areas compare across the United States in terms of returning to commuting patterns from pre-pandemic?
+- How much did ridership decrease by? <br>
+- Has ridership returned to normal? If not, how far are pre-pandemic ridership numbers is post-pandemic numbers? <br>
+- How do urban areas compare across the United States in terms of returning to commuting patterns from pre-pandemic? <br>
 - How has the advent of work from home changed commuting patterns?
 
 According to the US Census Bureau, “for the 2020 Census, an urban area will comprise  a densely settled core of census blocks that meet minimum housing unit density and/or population density requirements. This includes adjacent territory containing non-residential urban land uses. To qualify as an urban area, the territory identified according to criteria must encompass at least 2,000 housing units or have a population of at least 5,000.”
