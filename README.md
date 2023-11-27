@@ -1,7 +1,9 @@
 # Analyzing the Impact of the COVID-19 Pandemic on Public Transit in Urban Areas across the United States
 
+
 # Objective
 The goal of this analysis is to provide a historical analysis of the impact of the COVID-19 pandemic on public transit and commuting behaviors within urbanized areas across the United States with a population of at least 500,000. 
+
 
 # Context
 The COVID-19 pandemic saw a major change across the United States and the world of lockdown and social distancing. According to the [US Department of Health and Human Services](https://www.hhs.gov/about/news/2023/05/09/fact-sheet-end-of-the-covid-19-public-health-emergency.html), the US COVID-19 Public Health Emergency ended on May 11th, 2023. 
@@ -14,6 +16,7 @@ Because public transit has increased density of commuters compared to car travel
 - How has the advent of work from home changed commuting patterns?
 
 According to the [US Census Bureau](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html), “for the 2020 Census, an urban area will comprise  a densely settled core of census blocks that meet minimum housing unit density and/or population density requirements. This includes adjacent territory containing non-residential urban land uses. To qualify as an urban area, the territory identified according to criteria must encompass at least 2,000 housing units or have a population of at least 5,000.”
+
 
 # Data Source
 
@@ -34,7 +37,6 @@ The main consideration is that 2022 was still a year with many COVID-19 cases. I
 Therefore, the 2022 commuter and ridership datasets may be skewed by the increased virality of the Omicron variant of COVID-19. 
 
 Another consideration is that at the time of analysis, the latest datasets are for the 2022 year for the commuter dataset and august of 2023 for the transit datasets. Therefore, ridership and vehicle miles can be extrapolated for the 2023 year, but no commuter data can be found for 2023. With full 2023 and 2024 data, a more thorough analysis of pre, during, and post pandemic public transit can be conducted.
-![image](https://github.com/legrahamcracker/Covid9USPublicTransit/assets/146478734/ec91b3ac-cf4b-4d02-93ff-6828b9a3dfa4)
 
 
 # Dashboard
