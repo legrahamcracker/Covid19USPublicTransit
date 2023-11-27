@@ -1,7 +1,7 @@
 # Analyzing the Impact of the COVID-19 Pandemic on Public Transit in Urban Areas across the United States
 
 # Objective
-The goal of this analysis is to provide a historical analysis of the impact of the COVID-19 pandemic on public transit and commuting behaviors within the top 20 urbanized areas across the United States. 
+The goal of this analysis is to provide a historical analysis of the impact of the COVID-19 pandemic on public transit and commuting behaviors within urbanized areas across the United States with a population of at least 500,000. 
 
 # Context
 The COVID-19 pandemic saw a major change across the United States and the world of lockdown and social distancing. According to the [US Department of Health and Human Services](https://www.hhs.gov/about/news/2023/05/09/fact-sheet-end-of-the-covid-19-public-health-emergency.html), the US COVID-19 Public Health Emergency ended on May 11th, 2023. 
