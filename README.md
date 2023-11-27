@@ -25,6 +25,9 @@ The third dataset includes generic urban area statistics like population, land a
 
 These datasets will allow for thorough exploration of public transit and commuting characteristics of the period before and during the pandemic. Information on ridership will showcase the affect of COVID-19 on transit while commuter mode share may showcase what modes increased in use when public transit decreased.
 
+In addition, an urban area shapefile from the [US Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=Urban+Areas) was used to support the maps created for the visualizations within Python and Tableau.
+
+
 # Data Limitations
 
 The main consideration is that 2022 was still a year with many COVID-19 cases. In late 2021 to early 2022, the Omicron variant of COVID-19 spread throughout the world. According to the [CDC](https://www.cdc.gov/museum/timeline/covid19.html#Early-2022), on January 14, 2022, the daily average of new COVID-19 infections reported in the US spikes from 119,215 to 805,062 over the course of one month.  
