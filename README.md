@@ -25,6 +25,15 @@ The third dataset includes generic urban area statistics like population, land a
 
 These datasets will allow for thorough exploration of public transit and commuting characteristics of the period before and during the pandemic. Information on ridership will showcase the affect of COVID-19 on transit while commuter mode share may showcase what modes increased in use when public transit decreased.
 
+# Data Limitations
+
+The main consideration is that 2022 was still a year with many COVID-19 cases. In late 2021 to early 2022, the Omicron variant of COVID-19 spread throughout the world. According to the [CDC](https://www.cdc.gov/museum/timeline/covid19.html#Early-2022), on January 14, 2022, the daily average of new COVID-19 infections reported in the US spikes from 119,215 to 805,062 over the course of one month.  
+Therefore, the 2022 commuter and ridership datasets may be skewed by the increased virality of the Omicron variant of COVID-19. 
+
+Another consideration is that at the time of analysis, the latest datasets are for the 2022 year for the commuter dataset and august of 2023 for the transit datasets. Therefore, ridership and vehicle miles can be extrapolated for the 2023 year, but no commuter data can be found for 2023. With full 2023 and 2024 data, a more thorough analysis of pre, during, and post pandemic public transit can be conducted.
+![image](https://github.com/legrahamcracker/Covid9USPublicTransit/assets/146478734/ec91b3ac-cf4b-4d02-93ff-6828b9a3dfa4)
+
+
 # Dashboard
 
 The following Tableau Public dashboard that showcases the results of the above analysis. No link yet [Link]().
