@@ -2,7 +2,7 @@
 
 
 # Objective
-The goal of this analysis is to provide a historical analysis of the impact of the COVID-19 pandemic on public transit and commuting behaviors within urbanized areas across the United States with a population of at least 500,000. 
+The goal of this analysis is to provide a historical analysis of the impact of the COVID-19 pandemic on public transit (also known as [public transportation](https://en.wikipedia.org/wiki/Public_transport)) and commuting behaviors within urbanized areas across the United States with a population of at least 500,000. 
 
 
 # Context
@@ -14,8 +14,6 @@ Because public transit has increased density of commuters compared to car travel
 - Has ridership returned to normal? If not, how far are pre-pandemic ridership numbers is post-pandemic numbers? <br>
 - How do urban areas compare across the United States in terms of returning to commuting patterns from pre-pandemic? <br>
 - How has the advent of work from home changed commuting patterns?
-
-According to the [US Census Bureau](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html), “for the 2020 Census, an urban area will comprise  a densely settled core of census blocks that meet minimum housing unit density and/or population density requirements. This includes adjacent territory containing non-residential urban land uses. To qualify as an urban area, the territory identified according to criteria must encompass at least 2,000 housing units or have a population of at least 5,000.”
 
 
 # Data Source
@@ -42,3 +40,11 @@ Another consideration is that at the time of analysis, the latest datasets are f
 # Dashboard
 
 The following Tableau Public dashboard that showcases the results of the above analysis. No link yet [Link]().
+
+
+# Terminology
+- Urban area - short for 'urbanized area'; an urbanized area is defined by the [US Census Bureau](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html) as "a densely settled core of census blocks that meet minimum housing unit density and/or population density requirements ... the territory identified according to criteria must encompass at least 2,000 housing units or have a population of at least 5,000."
+- Commute mode share - commute mode share is defined by the [US Department of Transportation](https://www.transportation.gov/mission/health/commute-mode-share) as "the percentage of workers aged 16 years and over who commute either by bicycle, by private vehicle, including car, truck, van, taxicab, and motorcycle, by public transportation, including bus, rail, and ferry, or by foot." In addition, commuter percentages working from home is also included in within commute mode share data as "commute by worked from home."
+- Transit trips - shortened from 'unlinked passenger trips'; unlinked passenger trips are defined by the [National Transit Database](https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary#U) as "the number of passengers who board public transportation vehicles. Passengers are counted each time they board vehicles no matter how many vehicles they use to travel from their origin to their destination"
+- Transit vehicle miles - shortened from 'vehicle revenue miles'; vehicle revenue miles are defined by the [National Transit Database](https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary#V) as "the miles that vehicles are scheduled to or actually travel while in revenue service."
+
