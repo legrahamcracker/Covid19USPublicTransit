@@ -37,6 +37,15 @@ Therefore, the 2022 commuter and ridership datasets may be skewed by the increas
 Another consideration is that at the time of analysis, the latest datasets are for the 2022 year for the commuter dataset and august of 2023 for the transit datasets. Therefore, ridership and vehicle miles can be extrapolated for the 2023 year, but no commuter data can be found for 2023. With full 2023 and 2024 data, a more thorough analysis of pre, during, and post pandemic public transit can be conducted.
 
 
+## Null Values
+
+By dropping the rows of passenger trips and vehicle miles datasets according to the null values within the UZA Name column, 12 rows were removed and the only null values remaining in the datasets were 72 null values in the Legacy NTD ID column.
+
+For the Commuter 2018-2022 dataset, there are ‘work at home’ and ‘work from home’ columns. In 2022, the US Census Bureau changed verbiage of ‘work at home’ to ‘work from home’. This affects the columns of the dataset such that 2018-2021 entries had null vales for ‘work from home’ columns while 2022 entries had null values for ‘work at home’ columns. 
+
+To alleviate this issue, I separated the work at home departure columns from the work from home departure columns into separate dataframes and used the .fillna pandas function to ‘merge’ the two dataframes.
+
+
 # Dashboard
 
 The following Tableau Public dashboard that showcases the results of the above analysis. No link yet [Link]().
