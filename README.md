@@ -48,7 +48,7 @@ To alleviate this issue, I separated the work at home departure columns from the
 
 # Dashboard
 
-The following Tableau Public dashboard that showcases the results of the above analysis: [Link](https://public.tableau.com/views/COVID-19ImpactonUSPublicTransit/COVID-19USPublicTransit?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+The following Tableau Public dashboard that showcases the results of the above analysis: [Link](https://public.tableau.com/views/COVID-19ImpactonUSPublicTransitStoryboard/COVID-19USPublicTransit?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 
 # Terminology
